@@ -2,7 +2,7 @@
   "name": "Tagesjump/MSSQLConnection",
   "description": "MSSQL connection",
   "type": "library",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "require": {
     "php": ">=7.0"
   },
