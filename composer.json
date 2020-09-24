@@ -1,5 +1,5 @@
 {
-  "name": "tagesjump/mssqlconnection",
+  "name": "buzmarev/mssqlconnection",
   "description": "MSSQL connection",
   "type": "library",
   "minimum-stability": "stable",
